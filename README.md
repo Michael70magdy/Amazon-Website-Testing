@@ -3,6 +3,7 @@ Scenario 1:
 -	Select the first Item
 -	Add item to the cart
 -	Go to the cart and check that item is added successfully
+
 Scenario 2: 
 -	Open today's deals
 -	from the left side filters select "Headphones" and "grocery"
